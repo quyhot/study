@@ -27,3 +27,6 @@
 // git reset --hard (delete)
 
 // git revert (comback previous state)
+
+// .gitignore (remove files that write in .gitignore from git)
+
