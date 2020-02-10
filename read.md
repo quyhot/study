@@ -30,3 +30,21 @@
 
 // .gitignore (remove files that write in .gitignore from git)
 
+// github 
+// git push
+
+// enter username, password once
+// git config--global credential.helper store
+// (~/.git-credentials) (weak security)
+// git config --global credential.helper "cache --timeout=18000"
+// git ssh
+
+
+
+
+
+
+
+
+
+
