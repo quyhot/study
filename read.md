@@ -39,6 +39,9 @@
 // git config --global credential.helper "cache --timeout=18000"
 // git ssh
 
+// git clone (dowload code from github)
+// git pull (pull code to my computer)
+
 
 
 
