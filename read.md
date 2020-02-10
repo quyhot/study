@@ -42,6 +42,29 @@
 // git clone (dowload code from github)
 // git pull (pull code to my computer)
 
+// pull request
+// 1. git checkout -b <branch>
+// 2. git push origin <branch>
+// 3. create a pull request on Github
+// 4. review code
+	4.1. review code online (github)
+	4.2. fetch branch into local to test offline (optional)
+	4.3. approve the pull request
+//5. merge branch to master
+
+// resolve conflicts
+When will conflicts happen?
+	1. Changing the same file + same line.
+	2. A deleted file X, B modified file X.
+Method 1: git base
+	1: Using 'git base',
+	2: resolve conflict
+	3: push agian with -f
+Method 2: 
+	1: merge updated master to feature branch
+	2: resolve conflict
+	3: commit and push.
+
 
 
 
